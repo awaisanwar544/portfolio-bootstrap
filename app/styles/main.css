@@ -26,6 +26,14 @@ body {
 .v-height {
   height: 90vh;
 }
+.contact {
+    height: 100vh;
+    background-image: url("/icons/contact.png");
+    background-color: #6070FF;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-top-left-radius: 180px;
+  }
 
 .custom-bread {
   --bs-breadcrumb-divider: '●';
