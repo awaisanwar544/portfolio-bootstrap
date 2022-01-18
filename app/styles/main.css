@@ -1,1 +1,45 @@
-/* No CSS *//*# sourceMappingURL=main.css.map */
+body {
+  background-color: rgb(236, 236, 236);
+}
+
+.main {
+  background-image: url("/icons/header_bg.png");
+  background-color: white;
+  background-repeat: no-repeat;
+  background-size: contain;
+  border-bottom-left-radius: 180px;
+}
+
+.languages {
+  padding: 0;
+}
+
+.card-image {
+  width: 50%;
+}
+
+.about {
+  background-color: white;
+  border-top-right-radius: 180px;
+}
+
+.v-height {
+  height: 90vh;
+}
+
+.contact {
+  height: 100vh;
+  background-image: url("/icons/contact.png");
+  background-color: #6070ff;
+  background-repeat: no-repeat;
+  background-size: contain;
+  border-top-left-radius: 180px;
+}
+
+.custom-bread {
+  --bs-breadcrumb-divider: '●';
+}
+
+.vh-10 {
+  height: 10vh;
+}
