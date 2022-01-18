@@ -9,3 +9,11 @@ body {
     background-size: contain;
     border-bottom-left-radius: 180px;
 }
+
+.languages{
+    padding: 0;
+}
+
+.card-image {
+    width: 50%;
+}
