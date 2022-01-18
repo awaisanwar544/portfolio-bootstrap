@@ -1,3 +1,11 @@
-p-5{
-    ;
+body {
+    background-color: rgb(236, 236, 236);
+}
+
+.main {
+    background-image: url("/icons/header_bg.png");
+    background-color: white;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-bottom-left-radius: 180px;
 }
